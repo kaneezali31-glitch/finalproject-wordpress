@@ -1,0 +1,42 @@
+/*
+
+Theme Name: Hello Elementor Child
+
+Theme URI: https://github.com/elementor/hello-theme/
+
+Description: Hello Elementor Child is a child theme of Hello Elementor, created by Elementor team
+
+Author: Elementor Team
+
+Author URI: https://elementor.com/
+
+Template: hello-elementor
+
+Version: 1.0.1
+
+Text Domain: hello-elementor-child
+
+License: GNU General Public License v3 or later.
+
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
+
+*/
+/* --- EASY TEMPLATE STYLES --- */
+
+/* --- EASY TEMPLATE STYLES --- */
+.easy-wrapper { max-width: 1100px; margin: 40px auto; padding: 0 20px; font-family: sans-serif; }
+.easy-bread { font-size: 13px; color: #999; margin-bottom: 10px; }
+.easy-title { font-size: 44px; color: #222; margin-bottom: 10px; }
+.easy-meta { font-size: 14px; color: #777; margin-bottom: 25px; }
+
+.easy-hero img { width: 100%; height: auto; border-radius: 12px; box-shadow: 0 8px 25px rgba(0,0,0,0.1); }
+
+.easy-flex { display: flex; gap: 40px; margin-top: 30px; }
+.easy-main { flex: 3; }
+.easy-sidebar { flex: 1; background: #fdfdfd; padding: 25px; border-radius: 10px; border: 1px solid #eee; }
+
+.easy-summary { font-size: 1.2rem; color: #444; border-left: 4px solid #0073aa; padding-left: 15px; margin-bottom: 20px; font-style: italic; }
+.thanks { background: #e3f2fd; padding: 15px; border-radius: 5px; margin-top: 20px; text-align: center; font-weight: bold; }
+.easy-footer { margin-top: 50px; padding-top: 20px; border-top: 1px solid #eee; font-size: 13px; color: #666; }
+
+@media (max-width: 768px) { .easy-flex { flex-direction: column; } }
